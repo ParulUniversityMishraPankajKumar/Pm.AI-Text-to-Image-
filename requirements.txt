@@ -2,5 +2,6 @@ streamlit
 torch
 diffusers
 transformers
-scipy
 accelerate
+scipy
+Pillow
