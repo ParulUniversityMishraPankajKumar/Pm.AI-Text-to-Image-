@@ -1,6 +1,0 @@
-streamlit
-torch
-diffusers
-transformers
-scipy
-accelerate
